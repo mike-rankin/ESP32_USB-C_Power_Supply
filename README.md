@@ -7,4 +7,6 @@ ESP32 based USB C Programmable Power Supply
 
 ![3_3v](https://user-images.githubusercontent.com/4991664/126161122-873ebbfb-ac19-448a-b2a5-fcb4fcdd7969.png)
 
+![INA](https://user-images.githubusercontent.com/4991664/126161163-176d4ea4-d693-4e62-bd2e-30635613d8ff.png)
+
 
