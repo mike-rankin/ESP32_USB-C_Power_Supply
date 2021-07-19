@@ -8,5 +8,6 @@ Because the ESP32 current draw a few hundred milliamps, an earlier revision usin
 ![3_3v](https://user-images.githubusercontent.com/4991664/126161122-873ebbfb-ac19-448a-b2a5-fcb4fcdd7969.png)
 Measuring current draw at every voltage would be ideal so I've chosen the INA199 because at this time it is the only component that I can find in stock. Right now it's performance not good I will try and find something better.  
 ![INA](https://user-images.githubusercontent.com/4991664/126161163-176d4ea4-d693-4e62-bd2e-30635613d8ff.png)
+![wall_charger](https://user-images.githubusercontent.com/4991664/126163268-4a2f0e71-c4ee-4a5f-9668-6173583e491f.png)
 
 
