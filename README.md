@@ -8,6 +8,7 @@ The idea for this project came to me when I discovered that usb-c parts exist th
 To upload an Arduino sketch to the board it is connected to a pc using a USB-C cable but the output is only ever +5V. When the board is plugged into a dedicated usb-c charger like the 60 watt apple one that I use, multiple voltages and current options are available. Text on the back of your charger will let you know what values are available.
 
 ![wall_charger](https://user-images.githubusercontent.com/4991664/126163268-4a2f0e71-c4ee-4a5f-9668-6173583e491f.png)
+![usbc](https://user-images.githubusercontent.com/4991664/126781378-7d5c2aa3-93dc-4e28-bfae-e14218958875.jpg)
 
 A +5V LDO with a maximum input of 36V provides power to the CP2104N USB-C interface chip. Current comsumption is so low for this part that and LDO will not get warm.
 
