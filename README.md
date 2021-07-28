@@ -1,5 +1,4 @@
-# ESP32_USB-C_Power_Supply
-ESP32 USB-C Power Supply
+# ESP32 USB-C Power Supply
 
 The idea for this project came to me when I discovered that usb-c parts exist that communicate to parts inside the wall chargers. These parts ask the charger to deliver the voltage and current values if possible. Small chargers cannot deliver as much power as the larger ones. The small navigation button allows the user to select values with the top button as a power switch.
 
