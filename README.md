@@ -2,6 +2,8 @@
 
 The idea for this ESP32 usb-c power supply project came to me when I discovered that components exist that communicate to parts inside usb-c wall chargers. These parts send out a request to the charger asking it to deliver specific voltage and current values if possible. Small chargers cannot deliver as much power as the larger ones. The small navigation button allows the user to select values with the top button as a power switch.
 
+Hardware design instead of software is my strength so Larry Bank (https://github.com/bitbank2) was kind enough to write the software. I've changed a few things around and damaged it so it is still work in progress.
+
 ![IMG_0867](https://user-images.githubusercontent.com/4991664/126777846-82abcd4a-c4ef-4dae-8cf0-9f8feef768e5.jpg)
 ![Hardware](https://user-images.githubusercontent.com/4991664/122986609-08aba380-d376-11eb-9f85-b85096b66ec9.png)
 
